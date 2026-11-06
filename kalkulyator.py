@@ -5,3 +5,4 @@ def sub(a,b):
 
 print(summa(4,17))
 print(sub(4,6))
+print(sub(4,7))
