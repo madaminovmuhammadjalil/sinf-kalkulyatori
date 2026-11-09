@@ -1,3 +1,4 @@
+# kalkulaytor
 def summa(a,b):
     return a+b
 def sub(a,b):
@@ -5,4 +6,3 @@ def sub(a,b):
 
 print(summa(4,17))
 print(sub(4,6))
-print(sub(4,7))
