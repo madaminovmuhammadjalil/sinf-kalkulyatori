@@ -40,7 +40,8 @@ def sub(a,b):
 
 
 # ibrohim------
-
+def qoshish_ibrohim(a,b):
+    return a+b
 
 
 # bogibek------
