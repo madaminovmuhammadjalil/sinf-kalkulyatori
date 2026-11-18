@@ -24,8 +24,8 @@ def sub(a,b):
 
 
 # jalolbek-----
-
-
+def kopaytr_jalolbek(a,b):
+    return a*b
 
 # jasurbek-----
 
