@@ -48,9 +48,8 @@ def sub(a,b):
 
 
 # kamoladdin---
-
-
-
+def qoshish_kamoliddin(a,b):
+    return a+b
 
 print(summa(4,17))
 print(sub(4,6))
