@@ -16,8 +16,8 @@ def bolish_amirxon(a,b):
 
 
 # muhammadsodiq-
-
-
+def ayirish_muhammadsodiq(a,b):
+    return a-b
 
 # hasanboy-----
 
