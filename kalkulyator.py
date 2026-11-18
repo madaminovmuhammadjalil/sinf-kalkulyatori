@@ -32,8 +32,8 @@ def sub(a,b):
 
 
 # umidjon------
-
-
+def qoshish_umidjon(a,b):
+    return a+b 
 
 # adizbek------
 
