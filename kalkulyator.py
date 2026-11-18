@@ -36,8 +36,8 @@ def sub(a,b):
 
 
 # adizbek------
-
-
+def ayirish_adizbek(a,b):
+    return a-b
 
 # ibrohim------
 
