@@ -28,8 +28,8 @@ def sub(a,b):
 
 
 # jasurbek-----
-
-
+def qoshuv_jasurbek(a,b):
+    return a+b
 
 # umidjon------
 
