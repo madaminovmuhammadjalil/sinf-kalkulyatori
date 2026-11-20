@@ -12,8 +12,8 @@ def sub(a,b):
 
 
 # raufjon------
-
-
+def kopaytirish_raufjon(a,b)
+    return a*b
 
 # muhammadsodiq-
 
