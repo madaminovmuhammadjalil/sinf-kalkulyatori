@@ -24,23 +24,24 @@ def ayirish_muhammadsodiq(a,b):
 
 
 # jalolbek-----
-
-
+def kopaytr_jalolbek(a,b):
+    return a*b
 
 # jasurbek-----
-
-
+def qoshuv_jasurbek(a,b):
+    return a+b
 
 # umidjon------
-
-
+def qoshish_umidjon(a,b):
+    return a+b 
 
 # adizbek------
-
-
+def ayirish_adizbek(a,b):
+    return a-b
 
 # ibrohim------
-
+def qoshish_ibrohim(a,b):
+    return a+b
 
 
 # bogibek------
@@ -48,9 +49,8 @@ def ayirish_muhammadsodiq(a,b):
 
 
 # kamoladdin---
-
-
-
+def qoshish_kamoliddin(a,b):
+    return a+b
 
 print(summa(4,17))
 print(sub(4,6))
