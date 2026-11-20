@@ -13,8 +13,8 @@ def kopaytirish_ogabek(a,b)
     return a*b
 
 # raufjon------
-
-
+def kopaytirish_raufjon(a,b)
+    return a*b
 
 # muhammadsodiq-
 def ayirish_muhammadsodiq(a,b):
